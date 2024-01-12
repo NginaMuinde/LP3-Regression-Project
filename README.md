@@ -1,2 +1,2 @@
-# LP3-Regression-Project
+# LP3-Regression_Project
 A time series project
