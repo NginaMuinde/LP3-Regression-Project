@@ -543,9 +543,7 @@ Quito stands out with the largest average sales count, significantly surpassing 
 
 Pichincha leads in store count and consequently in average sales. This may be due to the fact that Quito is its capital. Guayas ranks second, driven by the presence of Guayaquil. States like Santo Domingo de los Tsachilas, Azuay, Manabi, Cotopaxi, Tungurahua, Los Rios, El Oro, Chimborazo, Imbabura, Bolivar, Pastaza, Santa Elena, and Loja maintain a moderate store count.
 
-#### j. Relationship between sales and transactions.
-
-![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/dd86d28e-22ae-483b-ae15-381a89bb10d6)
+#### j. Relationship between sales and transactions
 
 ![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/5dfb8abd-c34c-48d1-a417-d0703dfada82)
 
@@ -560,8 +558,8 @@ In conclusion, the scatter plot yields valuable insights into the interplay of s
 ### iii. Multivariate Analysis
 
 #### a. Correlation matrix of numerical variables
+![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/dd86d28e-22ae-483b-ae15-381a89bb10d6)
 
-![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/f52f2d13-45d9-4efe-bad8-cc7d26b1af9e)
 
 Correlation values, ranging from -1 to 1, provide insights into the relationships between variables. A perfect negative correlation is represented by -1, a perfect positive correlation by 1, and no correlation by 0. The correlation matrix below highlights associations between different variables:
 
@@ -580,13 +578,17 @@ A very weak negative correlation of approximately -0.017 is noted between "Trans
 In summary, the correlation values are relatively low, indicating that the relationships between these variables are not very robust. Other unexplored factors may influence sales, transactions, and oil prices. It is crucial to delve into additional variables to obtain a more comprehensive understanding of their collective impact on sales and transactions.
 
 #### b. Scatter Plot Marrix of numerical Variables
+![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/f52f2d13-45d9-4efe-bad8-cc7d26b1af9e)
 
-![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/0a90dedd-e1fb-43fc-8549-c4642e9f124f)
 
 The findings from the scatter plot matrix align with those derived from the correlation matrix.
 
 #### Additional Visuals
+
+![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/0a90dedd-e1fb-43fc-8549-c4642e9f124f)
+
 ![Uploading image.png…]()
+
 
 ## Stationarity Test
 Stationarity refers to the constancy of statistical characteristics, such as mean and variance, in a time series over time. In this context, the Augmented Dickey-Fuller (ADF) test was employed on the 'sales' data within the 'merged_df' dataset to assess stationarity. The ADF test is a standard method for examining stationarity in time series data.
