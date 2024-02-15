@@ -533,19 +533,21 @@ Analyzing sales variations by store type enables the identification of key reven
 
 #### h. Average Sales by City
 
-![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/3afa2787-d943-4fb1-a410-7cceaab7094c)
+![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/5dfb8abd-c34c-48d1-a417-d0703dfada82)
+
 
 Quito stands out with the largest average sales count, significantly surpassing all other cities. Cayambe ranks second in terms of average sales, followed by Ambato, Daule, and Loja. Some cities exhibit a moderate average sales count, while others have less. Puyo and Playas in particular, record the lowest average sales numbers.
 
 #### i. Average Sales by State
 
-![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/243bb562-c8a3-4f43-b49f-07d3460bc17f)
+![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/3afa2787-d943-4fb1-a410-7cceaab7094c)
 
 Pichincha leads in store count and consequently in average sales. This may be due to the fact that Quito is its capital. Guayas ranks second, driven by the presence of Guayaquil. States like Santo Domingo de los Tsachilas, Azuay, Manabi, Cotopaxi, Tungurahua, Los Rios, El Oro, Chimborazo, Imbabura, Bolivar, Pastaza, Santa Elena, and Loja maintain a moderate store count.
 
 #### j. Relationship between sales and transactions
 
-![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/5dfb8abd-c34c-48d1-a417-d0703dfada82)
+
+![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/243bb562-c8a3-4f43-b49f-07d3460bc17f)
 
 The scatter plot illustrates the correlation between sales and transactions in the dataset, with each data point representing a specific instance and its corresponding sales and transaction values. Key observations from the scatter plot include:
 
