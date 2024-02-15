@@ -1,5 +1,5 @@
-![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/5dfb8abd-c34c-48d1-a417-d0703dfada82)# LP3-Regression_Project
-A time series project
+## LP3-Regression_Project
+## A time series project
 ## Project Title: 
 ### `Sales Forecasting and Inventory Optimization For Ecuador Retail Businesses`
 ## Project Understanding and Description:
@@ -546,6 +546,8 @@ Pichincha leads in store count and consequently in average sales. This may be du
 #### j. Relationship between sales and transactions.
 
 ![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/dd86d28e-22ae-483b-ae15-381a89bb10d6)
+
+![image](https://github.com/NginaMuinde/LP3-Regression-Project/assets/149095447/5dfb8abd-c34c-48d1-a417-d0703dfada82)
 
 The scatter plot illustrates the correlation between sales and transactions in the dataset, with each data point representing a specific instance and its corresponding sales and transaction values. Key observations from the scatter plot include:
 
